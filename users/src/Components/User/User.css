@@ -1,0 +1,16 @@
+.user-card {
+  border: 1px solid #eee;
+  padding: 10%;
+}
+
+h4 {
+  display: inline-block;
+}
+
+.user-card:hover {
+  background-color: #ddd;
+}
+
+.user-prop-text {
+  font-size: medium;
+}
